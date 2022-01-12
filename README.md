@@ -1,2 +1,2 @@
 # Shop-Front-page
-Shop-Front-page(https://ainoi.github.io/Shop-Front/public/index.html)
+Shop-Front-page(https://ainoi.github.io/Shop-Front/)
