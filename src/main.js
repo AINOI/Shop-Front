@@ -17,7 +17,6 @@ Vue.use(VueGtag, {
   config: { id: "G-6JLZT1THR5" }
 })
 
-
 Vue.component('ImgInputer', ImgInputer)
 Vue.use(VueSweetalert2)
 Vue.mixin(mixin)
